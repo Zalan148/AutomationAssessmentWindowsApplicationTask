@@ -5,3 +5,4 @@
 5) WindowsDriver used to interact with the desktop application
 6) Run WinAppDriver.exe located in C:\Program Files (x86)\Windows Application Driver
 7) Open TestRunner class -> right click -> Select 'Run TestRunner'
+8) Results C:/Users/ZalanWadood/IdeaProjects/WinDesktopTests/target/HtmlReports/report.html
